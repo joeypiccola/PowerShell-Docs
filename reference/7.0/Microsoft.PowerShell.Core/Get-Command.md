@@ -370,7 +370,7 @@ The acceptable values for this parameter are:
 Type: CommandTypes
 Parameter Sets: AllCommandSet
 Aliases: Type
-Accepted values: Alias, Function, Filter, Cmdlet, ExternalScript, Application, Script, Workflow, Configuration, All
+Accepted values: Alias, Function, Filter, Cmdlet, ExternalScript, Application, Script, Configuration, All
 
 Required: False
 Position: Named
